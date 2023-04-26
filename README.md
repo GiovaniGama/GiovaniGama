@@ -6,8 +6,6 @@ Desenvolvedor Full Stack
 
 I'm a 20 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [49 campus in 28 countries](https://www.42network.org/42-schools/).
-
 * 🌍  Eu moro em São Paulo - SP, Brasil
 * ✉️  Você pode entrar em contato comigo via E-mail [giovanigama.08@hotmail.com](mailto:giovanigama.08@hotmail.com)
 * 🚀  Estou desempregado no momento em busca de novas oportunidades!
