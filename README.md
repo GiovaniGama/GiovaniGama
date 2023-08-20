@@ -8,7 +8,6 @@ Eu sou um jovem desenvolvedor apaixonado por tecnologia, sempre buscando inovar 
 
 * 🌍  Eu moro em São Paulo - SP, Brasil
 * ✉️  Você pode entrar em contato comigo via E-mail [giovanigama.08@hotmail.com](mailto:giovanigama.08@hotmail.com)
-* 🚀  Estou desempregado no momento em busca de novas oportunidades!
 * 🧠  Estudo e pratico todos os dias para estar sempre o mais atualizado possível.
 * 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas.
 * ⚡  Amo esportes e meu preferido é o basquete.
@@ -29,6 +28,7 @@ Eu sou um jovem desenvolvedor apaixonado por tecnologia, sempre buscando inovar 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.mysql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySql" /></a>
+    <a href="https://www.mysql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
 ### Sociais
