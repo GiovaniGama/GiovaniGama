@@ -49,14 +49,6 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovaniGama&show_icons=true&theme=tokyonight&count_private=true" alt="Giovani's GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniGama&layout=compact&theme=tokyonight&hide=css,html" alt="Top Languages" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiovaniGama&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
