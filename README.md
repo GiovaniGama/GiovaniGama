@@ -1,46 +1,62 @@
-Hi 👋 Meu nome é Giovani
-==========================
+# Hi 👋, I'm Giovani Gama
 
-Desenvolvedor Full Stack
------------------------------
+### Senior Software Engineer | Cloud & Distributed Systems Specialist 🚀
 
-Eu sou um jovem desenvolvedor apaixonado por tecnologia, sempre buscando inovar e criar soluções incríveis. Com 21 anos sou Desenvolvedor Full Stack, estou pronto para enfrentar qualquer desafio que surgir em meu caminho.
+[cite_start]Eu sou um Engenheiro de Software Sênior com foco em transformar problemas complexos em arquiteturas resilientes, performáticas e escaláveis[cite: 18, 22]. [cite_start]Atualmente, trabalho na convergência entre back-end de alta performance e ecossistemas modernos de front-end, sempre priorizando a excelência técnica e a mentoria de times[cite: 23, 26].
 
-* 🌍  Eu moro em São Paulo - SP, Brasil
-* ✉️  Você pode entrar em contato comigo via E-mail [giovanigama.08@hotmail.com](mailto:giovanigama.08@hotmail.com)
-* 🧠  Estudo e pratico todos os dias para estar sempre o mais atualizado possível.
-* 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas.
-* ⚡  Amo esportes e meu preferido é o basquete.
+---
 
-### Skills
+### 🏛️ Sobre mim
+* [cite_start]💻 Atualmente atuando como **Senior Fullstack Developer** na UX Group[cite: 30].
+* [cite_start]🎓 Pós-graduando em **Arquitetura de Software** pela FIAP.
+* [cite_start]🏗️ Especialista em **Sistemas Distribuídos**, **Microsserviços** e **Cloud Computing**[cite: 18, 27].
+* [cite_start]⚡ Apaixonado por performance: já reduzi o tempo de carregamento de aplicações em até **40%**[cite: 58].
+* [cite_start]🌍 Baseado em Barueri/São Paulo - Brasil[cite: 19].
 
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+#### **Backend & Cloud**
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="css3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://www.mysql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySql" /></a>
-    <a href="https://www.mysql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
-### Sociais
+#### **Frontend & Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-<p align="left"> <a href="https://github.com/GiovaniGama" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/giovani-gama/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+---
 
-### Badges
+### 📊 Estatísticas do GitHub
 
-<a href="http://www.github.com/GiovaniGama"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=GiovaniGama&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
+<p align="left">
+  <a href="https://github.com/GiovaniGama">
+    <img src="https://github-readme-stats-peguimasid.vercel.app/api?username=GiovaniGama&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/GiovaniGama">
+    <img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=GiovaniGama&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&hide=css,html" alt="Top Languages" />
+  </a>
+</p>
 
-<a href="http://www.github.com/GiovaniGama"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GiovaniGama&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/GiovaniGama"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GiovaniGama&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/GiovaniGama" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=GiovaniGama&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 📫 Vamos nos conectar?
+<p align="left">
+  <a href="https://www.linkedin.com/in/giovani-gama/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:giovanigama.08@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
