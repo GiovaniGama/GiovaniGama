@@ -2,16 +2,16 @@
 
 ### Senior Software Engineer | Cloud & Distributed Systems Specialist 🚀
 
-[cite_start]Eu sou um Engenheiro de Software Sênior com foco em transformar problemas complexos em arquiteturas resilientes, performáticas e escaláveis[cite: 18, 22]. [cite_start]Atualmente, trabalho na convergência entre back-end de alta performance e ecossistemas modernos de front-end, sempre priorizando a excelência técnica e a mentoria de times[cite: 23, 26].
+Eu sou um Engenheiro de Software Sênior com foco em transformar problemas complexos em arquiteturas resilientes, performáticas e escaláveis. Atualmente, trabalho na convergência entre back-end de alta performance e ecossistemas modernos de front-end, sempre priorizando a excelência técnica e a mentoria de times.
 
 ---
 
 ### 🏛️ Sobre mim
-* [cite_start]💻 Atualmente atuando como **Senior Fullstack Developer** na UX Group[cite: 30].
-* [cite_start]🎓 Pós-graduando em **Arquitetura de Software** pela FIAP.
-* [cite_start]🏗️ Especialista em **Sistemas Distribuídos**, **Microsserviços** e **Cloud Computing**[cite: 18, 27].
-* [cite_start]⚡ Apaixonado por performance: já reduzi o tempo de carregamento de aplicações em até **40%**[cite: 58].
-* [cite_start]🌍 Baseado em Barueri/São Paulo - Brasil[cite: 19].
+* 💻 Atualmente atuando como **Senior Fullstack Developer** na UX Group.
+* 🎓 Pós-graduando em **Arquitetura de Software** pela FIAP.
+* 🏗️ Especialista em **Sistemas Distribuídos**, **Microsserviços** e **Cloud Computing**.
+* ⚡ Apaixonado por performance: já reduzi o tempo de carregamento de aplicações em até **40%**.
+* 🌍 Baseado em Barueri/São Paulo - Brasil.
 
 ---
 
@@ -41,12 +41,12 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <a href="https://github.com/GiovaniGama">
-    <img src="https://github-readme-stats-peguimasid.vercel.app/api?username=GiovaniGama&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/GiovaniGama">
-    <img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=GiovaniGama&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&hide=css,html" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovaniGama&show_icons=true&theme=tokyonight&count_private=true" alt="Giovani's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniGama&layout=compact&theme=tokyonight&hide=css,html" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiovaniGama&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
