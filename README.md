@@ -2,16 +2,16 @@
 
 ### Senior Software Engineer | Cloud & Distributed Systems Specialist 🚀
 
-[cite_start]Eu sou um Engenheiro de Software Sênior com foco em transformar problemas complexos em arquiteturas resilientes, performáticas e escaláveis[cite: 18, 22]. [cite_start]Atualmente, trabalho na convergência entre back-end de alta performance e ecossistemas modernos de front-end, sempre priorizando a excelência técnica e a mentoria de times[cite: 23, 26, 27].
+Eu sou um Engenheiro de Software Sênior com foco em transformar problemas complexos em arquiteturas resilientes, performáticas e escaláveis. Atualmente, trabalho na convergência entre back-end de alta performance e ecossistemas modernos de front-end, sempre priorizando a excelência técnica e a mentoria de times.
 
 ---
 
 ### 🏛️ Sobre mim
-* [cite_start]💻 Atualmente atuando como **Senior Fullstack Developer** na UX Group[cite: 30].
-* [cite_start]🎓 Pós-graduando em **Arquitetura de Software** pela FIAP[cite: 86].
-* [cite_start]🏗️ Especialista em **Sistemas Distribuídos**, **Microsserviços** e **Cloud Computing**[cite: 18, 27].
-* [cite_start]⚡ Apaixonado por performance: histórico de redução de tempo de carregamento em até **40%**[cite: 58].
-* [cite_start]🌍 Baseado em Barueri/São Paulo - Brasil[cite: 19].
+* 💻 Atualmente atuando como **Senior Fullstack Developer** na UX Group[cite: 30].
+* 🎓 Pós-graduando em **Arquitetura de Software** pela FIAP[cite: 86].
+* 🏗️ Especialista em **Sistemas Distribuídos**, **Microsserviços** e **Cloud Computing**[cite: 18, 27].
+* ⚡ Apaixonado por performance: histórico de redução de tempo de carregamento em até **40%**[cite: 58].
+* 🌍 Baseado em Barueri/São Paulo - Brasil[cite: 19].
 
 ---
 
